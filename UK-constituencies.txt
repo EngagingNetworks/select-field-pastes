@@ -1,0 +1,650 @@
+Aberavon~Aberavon
+Aberconwy~Aberconwy
+Aberdeen North~Aberdeen North
+Aberdeen South~Aberdeen South
+Airdrie and Shotts~Airdrie and Shotts
+Aldershot~Aldershot
+Aldridge-Brownhills~Aldridge-Brownhills
+Altrincham and Sale West~Altrincham and Sale West
+Alyn and Deeside~Alyn and Deeside
+Amber Valley~Amber Valley
+Angus~Angus
+Arfon~Arfon
+Argyll and Bute~Argyll and Bute
+Arundel and South Downs~Arundel and South Downs
+Ashfield~Ashfield
+Ashford~Ashford
+Ashton-under-Lyne~Ashton-under-Lyne
+Aylesbury~Aylesbury
+Ayr, Carrick and Cumnock~Ayr, Carrick and Cumnock
+Banbury~Banbury
+Banff and Buchan~Banff and Buchan
+Barking~Barking
+Barnsley Central~Barnsley Central
+Barnsley East~Barnsley East
+Barrow and Furness~Barrow and Furness
+Basildon and Billericay~Basildon and Billericay
+Basingstoke~Basingstoke
+Bassetlaw~Bassetlaw
+Bath~Bath
+Batley and Spen~Batley and Spen
+Battersea~Battersea
+Beaconsfield~Beaconsfield
+Beckenham~Beckenham
+Bedford~Bedford
+Belfast East~Belfast East
+Belfast North~Belfast North
+Belfast South~Belfast South
+Belfast West~Belfast West
+Bermondsey and Old Southwark~Bermondsey and Old Southwark
+Berwickshire, Roxburgh and Selkirk~Berwickshire, Roxburgh and Selkirk
+Berwick-upon-Tweed~Berwick-upon-Tweed
+Bethnal Green and Bow~Bethnal Green and Bow
+Beverley and Holderness~Beverley and Holderness
+Bexhill and Battle~Bexhill and Battle
+Bexleyheath and Crayford~Bexleyheath and Crayford
+Birkenhead~Birkenhead
+Birmingham, Edgbaston~Birmingham, Edgbaston
+Birmingham, Erdington~Birmingham, Erdington
+Birmingham, Hall Green~Birmingham, Hall Green
+Birmingham, Hodge Hill~Birmingham, Hodge Hill
+Birmingham, Ladywood~Birmingham, Ladywood
+Birmingham, Northfield~Birmingham, Northfield
+Birmingham, Perry Barr~Birmingham, Perry Barr
+Birmingham, Selly Oak~Birmingham, Selly Oak
+Birmingham, Yardley~Birmingham, Yardley
+Bishop Auckland~Bishop Auckland
+Blackburn~Blackburn
+Blackley and Broughton~Blackley and Broughton
+Blackpool North and Cleveleys~Blackpool North and Cleveleys
+Blackpool South~Blackpool South
+Blaenau Gwent~Blaenau Gwent
+Blaydon~Blaydon
+Blyth Valley~Blyth Valley
+Bognor Regis and Littlehampton~Bognor Regis and Littlehampton
+Bolsover~Bolsover
+Bolton North East~Bolton North East
+Bolton South East~Bolton South East
+Bolton West~Bolton West
+Bootle~Bootle
+Boston and Skegness~Boston and Skegness
+Bosworth~Bosworth
+Bournemouth East~Bournemouth East
+Bournemouth West~Bournemouth West
+Bracknell~Bracknell
+Bradford East~Bradford East
+Bradford South~Bradford South
+Bradford West~Bradford West
+Braintree~Braintree
+Brecon and Radnorshire~Brecon and Radnorshire
+Brent Central~Brent Central
+Brent North~Brent North
+Brentford and Isleworth~Brentford and Isleworth
+Brentwood and Ongar~Brentwood and Ongar
+Bridgend~Bridgend
+Bridgwater and West Somerset~Bridgwater and West Somerset
+Brigg and Goole~Brigg and Goole
+Brighton, Kemptown~Brighton, Kemptown
+Brighton, Pavilion~Brighton, Pavilion
+Bristol East~Bristol East
+Bristol North West~Bristol North West
+Bristol South~Bristol South
+Bristol West~Bristol West
+Broadland~Broadland
+Bromley and Chislehurst~Bromley and Chislehurst
+Bromsgrove~Bromsgrove
+Broxbourne~Broxbourne
+Broxtowe~Broxtowe
+Buckingham~Buckingham
+Burnley~Burnley
+Burton~Burton
+Bury North~Bury North
+Bury South~Bury South
+Bury St Edmunds~Bury St Edmunds
+Caerphilly~Caerphilly
+Caithness, Sutherland and Easter Ross~Caithness, Sutherland and Easter Ross
+Calder Valley~Calder Valley
+Camberwell and Peckham~Camberwell and Peckham
+Camborne and Redruth~Camborne and Redruth
+Cambridge~Cambridge
+Cannock Chase~Cannock Chase
+Canterbury~Canterbury
+Cardiff Central~Cardiff Central
+Cardiff North~Cardiff North
+Cardiff South and Penarth~Cardiff South and Penarth
+Cardiff West~Cardiff West
+Carlisle~Carlisle
+Carmarthen East and Dinefwr~Carmarthen East and Dinefwr
+Carmarthen West and South Pembrokeshire~Carmarthen West and South Pembrokeshire
+Carshalton and Wallington~Carshalton and Wallington
+Castle Point~Castle Point
+Central Ayrshire~Central Ayrshire
+Central Devon~Central Devon
+Central Suffolk and North Ipswich~Central Suffolk and North Ipswich
+Ceredigion~Ceredigion
+Charnwood~Charnwood
+Chatham and Aylesford~Chatham and Aylesford
+Cheadle~Cheadle
+Chelmsford~Chelmsford
+Chelsea and Fulham~Chelsea and Fulham
+Cheltenham~Cheltenham
+Chesham and Amersham~Chesham and Amersham
+Chesterfield~Chesterfield
+Chichester~Chichester
+Chingford and Woodford Green~Chingford and Woodford Green
+Chippenham~Chippenham
+Chipping Barnet~Chipping Barnet
+Chorley~Chorley
+Christchurch~Christchurch
+Cities of London and Westminster~Cities of London and Westminster
+City of Chester~City of Chester
+City of Durham~City of Durham
+Clacton~Clacton
+Cleethorpes~Cleethorpes
+Clwyd South~Clwyd South
+Clwyd West~Clwyd West
+Coatbridge, Chryston and Bellshill~Coatbridge, Chryston and Bellshill
+Colchester~Colchester
+Colne Valley~Colne Valley
+Congleton~Congleton
+Copeland~Copeland
+Corby~Corby
+Coventry North East~Coventry North East
+Coventry North West~Coventry North West
+Coventry South~Coventry South
+Crawley~Crawley
+Crewe and Nantwich~Crewe and Nantwich
+Croydon Central~Croydon Central
+Croydon North~Croydon North
+Croydon South~Croydon South
+Cumbernauld, Kilsyth and Kirkintilloch East~Cumbernauld, Kilsyth and Kirkintilloch East
+Cynon Valley~Cynon Valley
+Dagenham and Rainham~Dagenham and Rainham
+Darlington~Darlington
+Dartford~Dartford
+Daventry~Daventry
+Delyn~Delyn
+Denton and Reddish~Denton and Reddish
+Derby North~Derby North
+Derby South~Derby South
+Derbyshire Dales~Derbyshire Dales
+Devizes~Devizes
+Dewsbury~Dewsbury
+Don Valley~Don Valley
+Doncaster Central~Doncaster Central
+Doncaster North~Doncaster North
+Dover~Dover
+Dudley North~Dudley North
+Dudley South~Dudley South
+Dulwich and West Norwood~Dulwich and West Norwood
+Dumfries and Galloway~Dumfries and Galloway
+Dumfriesshire, Clydesdale and Tweeddale~Dumfriesshire, Clydesdale and Tweeddale
+Dundee East~Dundee East
+Dundee West~Dundee West
+Dunfermline and West Fife~Dunfermline and West Fife
+Dwyfor Meirionnydd~Dwyfor Meirionnydd
+Ealing Central and Acton~Ealing Central and Acton
+Ealing North~Ealing North
+Ealing, Southall~Ealing, Southall
+Easington~Easington
+East Antrim~East Antrim
+East Devon~East Devon
+East Dunbartonshire~East Dunbartonshire
+East Ham~East Ham
+East Hampshire~East Hampshire
+East Kilbride, Strathaven and Lesmahagow~East Kilbride, Strathaven and Lesmahagow
+East Londonderry~East Londonderry
+East Lothian~East Lothian
+East Renfrewshire~East Renfrewshire
+East Surrey~East Surrey
+East Worthing and Shoreham~East Worthing and Shoreham
+East Yorkshire~East Yorkshire
+Eastbourne~Eastbourne
+Eastleigh~Eastleigh
+Eddisbury~Eddisbury
+Edinburgh East~Edinburgh East
+Edinburgh North and Leith~Edinburgh North and Leith
+Edinburgh South~Edinburgh South
+Edinburgh South West~Edinburgh South West
+Edinburgh West~Edinburgh West
+Edmonton~Edmonton
+Ellesmere Port and Neston~Ellesmere Port and Neston
+Elmet and Rothwell~Elmet and Rothwell
+Eltham~Eltham
+Enfield North~Enfield North
+Enfield, Southgate~Enfield, Southgate
+Epping Forest~Epping Forest
+Epsom and Ewell~Epsom and Ewell
+Erewash~Erewash
+Erith and Thamesmead~Erith and Thamesmead
+Esher and Walton~Esher and Walton
+Exeter~Exeter
+Falkirk~Falkirk
+Fareham~Fareham
+Faversham and Mid Kent~Faversham and Mid Kent
+Feltham and Heston~Feltham and Heston
+Fermanagh and South Tyrone~Fermanagh and South Tyrone
+Filton and Bradley Stoke~Filton and Bradley Stoke
+Finchley and Golders Green~Finchley and Golders Green
+Folkestone and Hythe~Folkestone and Hythe
+Forest of Dean~Forest of Dean
+Foyle~Foyle
+Fylde~Fylde
+Gainsborough~Gainsborough
+Garston and Halewood~Garston and Halewood
+Gateshead~Gateshead
+Gedling~Gedling
+Gillingham and Rainham~Gillingham and Rainham
+Glasgow Central~Glasgow Central
+Glasgow East~Glasgow East
+Glasgow North~Glasgow North
+Glasgow North East~Glasgow North East
+Glasgow North West~Glasgow North West
+Glasgow South~Glasgow South
+Glasgow South West~Glasgow South West
+Glenrothes~Glenrothes
+Gloucester~Gloucester
+Gordon~Gordon
+Gosport~Gosport
+Gower~Gower
+Grantham and Stamford~Grantham and Stamford
+Gravesham~Gravesham
+Great Grimsby~Great Grimsby
+Great Yarmouth~Great Yarmouth
+Greenwich and Woolwich~Greenwich and Woolwich
+Guildford~Guildford
+Hackney North and Stoke Newington~Hackney North and Stoke Newington
+Hackney South and Shoreditch~Hackney South and Shoreditch
+Halesowen and Rowley Regis~Halesowen and Rowley Regis
+Halifax~Halifax
+Haltemprice and Howden~Haltemprice and Howden
+Halton~Halton
+Hammersmith~Hammersmith
+Hampstead and Kilburn~Hampstead and Kilburn
+Harborough~Harborough
+Harlow~Harlow
+Harrogate and Knaresborough~Harrogate and Knaresborough
+Harrow East~Harrow East
+Harrow West~Harrow West
+Hartlepool~Hartlepool
+Harwich and North Essex~Harwich and North Essex
+Hastings and Rye~Hastings and Rye
+Havant~Havant
+Hayes and Harlington~Hayes and Harlington
+Hazel Grove~Hazel Grove
+Hemel Hempstead~Hemel Hempstead
+Hemsworth~Hemsworth
+Hendon~Hendon
+Henley~Henley
+Hereford and South Herefordshire~Hereford and South Herefordshire
+Hertford and Stortford~Hertford and Stortford
+Hertsmere~Hertsmere
+Hexham~Hexham
+Heywood and Middleton~Heywood and Middleton
+High Peak~High Peak
+Hitchin and Harpenden~Hitchin and Harpenden
+Holborn and St Pancras~Holborn and St Pancras
+Hornchurch and Upminster~Hornchurch and Upminster
+Hornsey and Wood Green~Hornsey and Wood Green
+Horsham~Horsham
+Houghton and Sunderland South~Houghton and Sunderland South
+Hove~Hove
+Huddersfield~Huddersfield
+Huntingdon~Huntingdon
+Hyndburn~Hyndburn
+Ilford North~Ilford North
+Ilford South~Ilford South
+Inverclyde~Inverclyde
+Inverness, Nairn, Badenoch and Strathspey~Inverness, Nairn, Badenoch and Strathspey
+Ipswich~Ipswich
+Isle of Wight~Isle of Wight
+Islington North~Islington North
+Islington South and Finsbury~Islington South and Finsbury
+Islwyn~Islwyn
+Jarrow~Jarrow
+Keighley~Keighley
+Kenilworth and Southam~Kenilworth and Southam
+Kensington~Kensington
+Kettering~Kettering
+Kilmarnock and Loudoun~Kilmarnock and Loudoun
+Kingston and Surbiton~Kingston and Surbiton
+Kingston upon Hull East~Kingston upon Hull East
+Kingston upon Hull North~Kingston upon Hull North
+Kingston upon Hull West and Hessle~Kingston upon Hull West and Hessle
+Kingswood~Kingswood
+Kirkcaldy and Cowdenbeath~Kirkcaldy and Cowdenbeath
+Knowsley~Knowsley
+Lagan Valley~Lagan Valley
+Lanark and Hamilton East~Lanark and Hamilton East
+Lancaster and Fleetwood~Lancaster and Fleetwood
+Leeds Central~Leeds Central
+Leeds East~Leeds East
+Leeds North East~Leeds North East
+Leeds North West~Leeds North West
+Leeds West~Leeds West
+Leicester East~Leicester East
+Leicester South~Leicester South
+Leicester West~Leicester West
+Leigh~Leigh
+Lewes~Lewes
+Lewisham East~Lewisham East
+Lewisham West and Penge~Lewisham West and Penge
+Lewisham, Deptford~Lewisham, Deptford
+Leyton and Wanstead~Leyton and Wanstead
+Lichfield~Lichfield
+Lincoln~Lincoln
+Linlithgow and East Falkirk~Linlithgow and East Falkirk
+Liverpool, Riverside~Liverpool, Riverside
+Liverpool, Walton~Liverpool, Walton
+Liverpool, Wavertree~Liverpool, Wavertree
+Liverpool, West Derby~Liverpool, West Derby
+Livingston~Livingston
+Llanelli~Llanelli
+Loughborough~Loughborough
+Louth and Horncastle~Louth and Horncastle
+Ludlow~Ludlow
+Luton North~Luton North
+Luton South~Luton South
+Macclesfield~Macclesfield
+Maidenhead~Maidenhead
+Maidstone and The Weald~Maidstone and The Weald
+Makerfield~Makerfield
+Maldon~Maldon
+Manchester Central~Manchester Central
+Manchester, Gorton~Manchester, Gorton
+Manchester, Withington~Manchester, Withington
+Mansfield~Mansfield
+Meon Valley~Meon Valley
+Meriden~Meriden
+Merthyr Tydfil and Rhymney~Merthyr Tydfil and Rhymney
+Mid Bedfordshire~Mid Bedfordshire
+Mid Derbyshire~Mid Derbyshire
+Mid Dorset and North Poole~Mid Dorset and North Poole
+Mid Norfolk~Mid Norfolk
+Mid Sussex~Mid Sussex
+Mid Ulster~Mid Ulster
+Mid Worcestershire~Mid Worcestershire
+Middlesbrough~Middlesbrough
+Middlesbrough South and East Cleveland~Middlesbrough South and East Cleveland
+Midlothian~Midlothian
+Milton Keynes North~Milton Keynes North
+Milton Keynes South~Milton Keynes South
+Mitcham and Morden~Mitcham and Morden
+Mole Valley~Mole Valley
+Monmouth~Monmouth
+Montgomeryshire~Montgomeryshire
+Moray~Moray
+Morecambe and Lunesdale~Morecambe and Lunesdale
+Morley and Outwood~Morley and Outwood
+Motherwell and Wishaw~Motherwell and Wishaw
+Na h-Eileanan an Iar~Na h-Eileanan an Iar
+Neath~Neath
+New Forest East~New Forest East
+New Forest West~New Forest West
+Newark~Newark
+Newbury~Newbury
+Newcastle upon Tyne Central~Newcastle upon Tyne Central
+Newcastle upon Tyne East~Newcastle upon Tyne East
+Newcastle upon Tyne North~Newcastle upon Tyne North
+Newcastle-under-Lyme~Newcastle-under-Lyme
+Newport East~Newport East
+Newport West~Newport West
+Newry and Armagh~Newry and Armagh
+Newton Abbot~Newton Abbot
+Normanton, Pontefract and Castleford~Normanton, Pontefract and Castleford
+North Antrim~North Antrim
+North Ayrshire and Arran~North Ayrshire and Arran
+North Cornwall~North Cornwall
+North Devon~North Devon
+North Dorset~North Dorset
+North Down~North Down
+North Durham~North Durham
+North East Bedfordshire~North East Bedfordshire
+North East Cambridgeshire~North East Cambridgeshire
+North East Derbyshire~North East Derbyshire
+North East Fife~North East Fife
+North East Hampshire~North East Hampshire
+North East Hertfordshire~North East Hertfordshire
+North East Somerset~North East Somerset
+North Herefordshire~North Herefordshire
+North Norfolk~North Norfolk
+North Shropshire~North Shropshire
+North Somerset~North Somerset
+North Swindon~North Swindon
+North Thanet~North Thanet
+North Tyneside~North Tyneside
+North Warwickshire~North Warwickshire
+North West Cambridgeshire~North West Cambridgeshire
+North West Durham~North West Durham
+North West Hampshire~North West Hampshire
+North West Leicestershire~North West Leicestershire
+North West Norfolk~North West Norfolk
+North Wiltshire~North Wiltshire
+Northampton North~Northampton North
+Northampton South~Northampton South
+Norwich North~Norwich North
+Norwich South~Norwich South
+Nottingham East~Nottingham East
+Nottingham North~Nottingham North
+Nottingham South~Nottingham South
+Nuneaton~Nuneaton
+Ochil and South Perthshire~Ochil and South Perthshire
+Ogmore~Ogmore
+Old Bexley and Sidcup~Old Bexley and Sidcup
+Oldham East and Saddleworth~Oldham East and Saddleworth
+Oldham West and Royton~Oldham West and Royton
+Orkney and Shetland~Orkney and Shetland
+Orpington~Orpington
+Oxford East~Oxford East
+Oxford West and Abingdon~Oxford West and Abingdon
+Paisley and Renfrewshire North~Paisley and Renfrewshire North
+Paisley and Renfrewshire South~Paisley and Renfrewshire South
+Pendle~Pendle
+Penistone and Stocksbridge~Penistone and Stocksbridge
+Penrith and The Border~Penrith and The Border
+Perth and North Perthshire~Perth and North Perthshire
+Peterborough~Peterborough
+Plymouth, Moor View~Plymouth, Moor View
+Plymouth, Sutton and Devonport~Plymouth, Sutton and Devonport
+Pontypridd~Pontypridd
+Poole~Poole
+Poplar and Limehouse~Poplar and Limehouse
+Portsmouth North~Portsmouth North
+Portsmouth South~Portsmouth South
+Preseli Pembrokeshire~Preseli Pembrokeshire
+Preston~Preston
+Pudsey~Pudsey
+Putney~Putney
+Rayleigh and Wickford~Rayleigh and Wickford
+Reading East~Reading East
+Reading West~Reading West
+Redcar~Redcar
+Redditch~Redditch
+Reigate~Reigate
+Rhondda~Rhondda
+Ribble Valley~Ribble Valley
+Richmond (Yorks)~Richmond (Yorks)
+Richmond Park~Richmond Park
+Rochdale~Rochdale
+Rochester and Strood~Rochester and Strood
+Rochford and Southend East~Rochford and Southend East
+Romford~Romford
+Romsey and Southampton North~Romsey and Southampton North
+Ross, Skye and Lochaber~Ross, Skye and Lochaber
+Rossendale and Darwen~Rossendale and Darwen
+Rother Valley~Rother Valley
+Rotherham~Rotherham
+Rugby~Rugby
+Ruislip, Northwood and Pinner~Ruislip, Northwood and Pinner
+Runnymede and Weybridge~Runnymede and Weybridge
+Rushcliffe~Rushcliffe
+Rutherglen and Hamilton West~Rutherglen and Hamilton West
+Rutland and Melton~Rutland and Melton
+Saffron Walden~Saffron Walden
+Salford and Eccles~Salford and Eccles
+Salisbury~Salisbury
+Scarborough and Whitby~Scarborough and Whitby
+Scunthorpe~Scunthorpe
+Sedgefield~Sedgefield
+Sefton Central~Sefton Central
+Selby and Ainsty~Selby and Ainsty
+Sevenoaks~Sevenoaks
+Sheffield Central~Sheffield Central
+Sheffield South East~Sheffield South East
+Sheffield, Brightside and Hillsborough~Sheffield, Brightside and Hillsborough
+Sheffield, Hallam~Sheffield, Hallam
+Sheffield, Heeley~Sheffield, Heeley
+Sherwood~Sherwood
+Shipley~Shipley
+Shrewsbury and Atcham~Shrewsbury and Atcham
+Sittingbourne and Sheppey~Sittingbourne and Sheppey
+Skipton and Ripon~Skipton and Ripon
+Sleaford and North Hykeham~Sleaford and North Hykeham
+Slough~Slough
+Solihull~Solihull
+Somerton and Frome~Somerton and Frome
+South Antrim~South Antrim
+South Basildon and East Thurrock~South Basildon and East Thurrock
+South Cambridgeshire~South Cambridgeshire
+South Derbyshire~South Derbyshire
+South Dorset~South Dorset
+South Down~South Down
+South East Cambridgeshire~South East Cambridgeshire
+South East Cornwall~South East Cornwall
+South Holland and The Deepings~South Holland and The Deepings
+South Leicestershire~South Leicestershire
+South Norfolk~South Norfolk
+South Northamptonshire~South Northamptonshire
+South Ribble~South Ribble
+South Shields~South Shields
+South Staffordshire~South Staffordshire
+South Suffolk~South Suffolk
+South Swindon~South Swindon
+South Thanet~South Thanet
+South West Bedfordshire~South West Bedfordshire
+South West Devon~South West Devon
+South West Hertfordshire~South West Hertfordshire
+South West Norfolk~South West Norfolk
+South West Surrey~South West Surrey
+South West Wiltshire~South West Wiltshire
+Southampton, Itchen~Southampton, Itchen
+Southampton, Test~Southampton, Test
+Southend West~Southend West
+Southport~Southport
+Spelthorne~Spelthorne
+St Albans~St Albans
+St Austell and Newquay~St Austell and Newquay
+St Helens North~St Helens North
+St Helens South and Whiston~St Helens South and Whiston
+St Ives~St Ives
+Stafford~Stafford
+Staffordshire Moorlands~Staffordshire Moorlands
+Stalybridge and Hyde~Stalybridge and Hyde
+Stevenage~Stevenage
+Stirling~Stirling
+Stockport~Stockport
+Stockton North~Stockton North
+Stockton South~Stockton South
+Stoke-on-Trent Central~Stoke-on-Trent Central
+Stoke-on-Trent North~Stoke-on-Trent North
+Stoke-on-Trent South~Stoke-on-Trent South
+Stone~Stone
+Stourbridge~Stourbridge
+Strangford~Strangford
+Stratford-on-Avon~Stratford-on-Avon
+Streatham~Streatham
+Stretford and Urmston~Stretford and Urmston
+Stroud~Stroud
+Suffolk Coastal~Suffolk Coastal
+Sunderland Central~Sunderland Central
+Surrey Heath~Surrey Heath
+Sutton and Cheam~Sutton and Cheam
+Sutton Coldfield~Sutton Coldfield
+Swansea East~Swansea East
+Swansea West~Swansea West
+Tamworth~Tamworth
+Tatton~Tatton
+Taunton Deane~Taunton Deane
+Telford~Telford
+Tewkesbury~Tewkesbury
+The Cotswolds~The Cotswolds
+The Wrekin~The Wrekin
+Thirsk and Malton~Thirsk and Malton
+Thornbury and Yate~Thornbury and Yate
+Thurrock~Thurrock
+Tiverton and Honiton~Tiverton and Honiton
+Tonbridge and Malling~Tonbridge and Malling
+Tooting~Tooting
+Torbay~Torbay
+Torfaen~Torfaen
+Torridge and West Devon~Torridge and West Devon
+Totnes~Totnes
+Tottenham~Tottenham
+Truro and Falmouth~Truro and Falmouth
+Tunbridge Wells~Tunbridge Wells
+Twickenham~Twickenham
+Tynemouth~Tynemouth
+Upper Bann~Upper Bann
+Uxbridge and South Ruislip~Uxbridge and South Ruislip
+Vale of Clwyd~Vale of Clwyd
+Vale of Glamorgan~Vale of Glamorgan
+Vauxhall~Vauxhall
+Wakefield~Wakefield
+Wallasey~Wallasey
+Walsall North~Walsall North
+Walsall South~Walsall South
+Walthamstow~Walthamstow
+Wansbeck~Wansbeck
+Wantage~Wantage
+Warley~Warley
+Warrington North~Warrington North
+Warrington South~Warrington South
+Warwick and Leamington~Warwick and Leamington
+Washington and Sunderland West~Washington and Sunderland West
+Watford~Watford
+Waveney~Waveney
+Wealden~Wealden
+Weaver Vale~Weaver Vale
+Wellingborough~Wellingborough
+Wells~Wells
+Welwyn Hatfield~Welwyn Hatfield
+Wentworth and Dearne~Wentworth and Dearne
+West Aberdeenshire and Kincardine~West Aberdeenshire and Kincardine
+West Bromwich East~West Bromwich East
+West Bromwich West~West Bromwich West
+West Dorset~West Dorset
+West Dunbartonshire~West Dunbartonshire
+West Ham~West Ham
+West Lancashire~West Lancashire
+West Suffolk~West Suffolk
+West Tyrone~West Tyrone
+West Worcestershire~West Worcestershire
+Westminster North~Westminster North
+Westmorland and Lonsdale~Westmorland and Lonsdale
+Weston-Super-Mare~Weston-Super-Mare
+Wigan~Wigan
+Wimbledon~Wimbledon
+Winchester~Winchester
+Windsor~Windsor
+Wirral South~Wirral South
+Wirral West~Wirral West
+Witham~Witham
+Witney~Witney
+Woking~Woking
+Wokingham~Wokingham
+Wolverhampton North East~Wolverhampton North East
+Wolverhampton South East~Wolverhampton South East
+Wolverhampton South West~Wolverhampton South West
+Worcester~Worcester
+Workington~Workington
+Worsley and Eccles South~Worsley and Eccles South
+Worthing West~Worthing West
+Wrexham~Wrexham
+Wycombe~Wycombe
+Wyre and Preston North~Wyre and Preston North
+Wyre Forest~Wyre Forest
+Wythenshawe and Sale East~Wythenshawe and Sale East
+Yeovil~Yeovil
+Ynys Mon~Ynys Mon
+York Central~York Central
+York Outer~York Outer

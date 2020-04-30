@@ -1,0 +1,32 @@
+Ciudad de México~MX-CMX 
+Aguascalientes~MX-AGU 	
+Baja California~MX-BCN 	
+Baja California Sur~MX-BCS 	
+Campeche~MX-CAM 
+Coahuila de Zaragoza~MX-COA 
+Colima~MX-COL
+Chiapas~MX-CHP 	
+Chihuahua~MX-CHH 	
+Durango~MX-DUR	
+Guanajuato~MX-GUA 	
+Guerrero~MX-GRO 	
+Hidalgo~MX-HID	
+Jalisco~MX-JAL 	
+México~MX-MEX 	
+Michoacán de Ocampo~MX-MIC
+Morelos~MX-MOR
+Nayarit~MX-NAY	
+Nuevo León~MX-NLE	
+Oaxaca~MX-OAX 	
+Puebla~MX-PUE 	
+Querétaro~MX-QUE	
+Quintana Roo~MX-ROO 	
+San Luis Potosí~MX-SLP	
+Sinaloa~MX-SIN	
+Sonora~MX-SON	
+Tabasco~MX-TAB	
+Tamaulipas~MX-TAM 	
+Tlaxcala~MX-TLA	
+Veracruz de Ignacio de la Llave~MX-VER 
+Yucatán~MX-YUC	
+Zacatecas~MX-ZAC	 
